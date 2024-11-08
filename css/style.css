@@ -11,16 +11,16 @@ body {
 
 a,
 a:link {
-    color:#0045ad
+    color:#0045ad;
 }
 a:visited {
-    color: #545454
+    color: #545454;
 }
 a:hover {
-    color: #922a8f
+    color: #922a8f;
 }
 a:active {
-    color: #ff0f33
+    color: #ff0f33;
 }
 
 h1 {

@@ -112,38 +112,27 @@ th, td {
 }
 /* end of index page grid */
 
-
-/* disovery page image  */
-
+/* floating figures */
 
 #hogwarts {
-    margin: 32px 0 0 0;
-    overflow: auto;
-}
-#hogwarts img {
     float: left;
+    width: 360px;
+    margin: 0;
     margin-right: 20px;
 }
 
-#hogwarts figcaption {
-    line-height: 2;
-}
-/* end of discovery page image */
-
-/* final war image */
-
-.geometry {
-    margin: 32px 0 0 0;
-    overflow: auto;
-}
-  
-.geometry img {
+#symbol {
     float: left;
-    margin-right: 20px;
+    width: 173px;
+    margin: 0;
+    margin-right: 30px;
 }
 
-.geometry figcaption {
-    line-height: 2;
+.cutfloat {
+    clear: both;
 }
 
-/* end of final war image */
+figcaption {
+    text-align: right;
+    padding-top: 5px;
+}
